@@ -4,9 +4,10 @@
 
 <div align="center">
 
-# 🎯 零AI痕迹写作系统
+# ✍️ human-pen.skill
 
-**面向中文自媒体的"去AI味"写作方法论与工具集**
+**人类笔触 — 零AI痕迹的中文自媒体写作系统**
+
 
 覆盖知乎、微信公众号、小红书、微博四大主流平台
 
@@ -55,8 +56,8 @@
 ### 方法二：使用扫描工具
 ```bash
 # 克隆项目
-git clone https://github.com/ymstar/zero-ai-trace-writing.git
-cd zero-ai-trace-writing
+git clone https://github.com/ymstar/human-pen.skill.git
+cd human-pen.skill
 
 # 扫描你的文章
 python3 scripts/blacklist-scanner.py your-article.md
