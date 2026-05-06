@@ -1,7 +1,3 @@
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)
-![Platform](https://img.shields.io/badge/platform-知乎%20%7C%20公众号%20%7C%20小红书%20%7C%20微博-orange.svg)
-
 <div align="center">
 
 # ✍️ human-pen.skill
@@ -10,6 +6,10 @@
 
 
 覆盖知乎、微信公众号、小红书、微博四大主流平台
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)
+![Platform](https://img.shields.io/badge/platform-知乎%20%7C%20公众号%20%7C%20小红书%20%7C%20微博-orange.svg)
 
 </div>
 
